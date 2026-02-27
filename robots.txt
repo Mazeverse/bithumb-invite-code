@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-VERCEL-URL/sitemap.xml
+Sitemap: https://bithumb-invite-code.vercel.app/sitemap.xml
